@@ -1,0 +1,26 @@
+# Auto detect text files and normalize line endings to LF
+* text=auto
+
+# JavaScript
+*.js eol=lf
+*.mjs eol=lf
+*.cjs eol=lf
+*.jsx eol=lf
+
+# TypeScript
+*.ts eol=lf
+*.tsx eol=lf
+
+# JSON
+*.json eol=lf
+
+# YAML
+*.yml eol=lf
+*.yaml eol=lf
+
+# Markdown
+*.md eol=lf
+
+# Lockfiles
+package-lock.json eol=lf
+yarn.lock eol=lf
